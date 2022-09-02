@@ -19,3 +19,7 @@
 - [ryanism-org/staticAPI (staticapi.ryanism.org)](https://github.com/ryanism-org/staticAPI#readme) - Static JSON Files used for [ryanism.org](https://ryanism.org)
 - [ryanism-org/blog.ryanism.org (blog.ryanism.org)](https://github.com/ryanism-org/blog.ryanism.org#readme) - In association with [Channel 4 News](https://ryanism.org/channelfour), we come here to give you entertainment in the name of the True RYAN
 - [ryanism-org/ryanismLinks](https://github.com/ryanism-org/ryanismLinks#readme) - A collection of Social Media outlooks for Ryanism and other Churches in collaboration with Ryanism.
+
+## Gaming Studios
+- [ryanism-org/games.ryanism.org](https://github.com/ryanism-org/games.ryanism.org) - Netlify redirects repo for Ryanism Gaming Creative Studios
+- [ryanism-org/project-r-web](https://github.com/ryanism-org/project-r-web) - Ryanism Studios First Game Web Build for Development and Demonstration Purposes Only
