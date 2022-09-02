@@ -11,7 +11,18 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Ryanism
+<div align="center" style="display: block; margin-left: auto; margin-right: auto;">  
+  
+  <img align="left" src="logo.png" alt="logo" height="42" width="42">
+  <h1>Ryanism Creative Studios</h1>
+  
+  [![instgram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&color=E1306C)](https//ryanism.org/instagram)
+  [![reddit](https://img.shields.io/badge/Reddit-FF4500?&logo=reddit&logoColor=white)](https://ryanism.org/reddit)
+  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://ryanism.org/twitter)
+  [![tiktok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://ryanism.org/tiktok/)
+  [![discord](https://img.shields.io/badge/Discord-7qTNdXd?logo=discord&logoColor=white&color=5865F2)](https://ryanism.org/discord)
+  
+</div>
 
 ## Projects
 - [Main Website (ryanism.org)](https://ryanism.org) - The Ideological Thought on the Church of Ryanism
