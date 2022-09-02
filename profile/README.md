@@ -13,7 +13,7 @@
 
 <div align="center" style="display: block; margin-left: auto; margin-right: auto;">  
   
-  <img align="left" src="logo.png" alt="logo" height="42" width="42">
+  <img align="left" src="https://github.com/ryanism-org/.github/blob/main/profile/logo.png?raw=true" alt="logo" height="42" width="42">
   <h1>Ryanism Creative Studios</h1>
   
   [![instgram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&color=E1306C)](https//ryanism.org/instagram)
